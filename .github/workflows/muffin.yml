@@ -1,4 +1,4 @@
-name: CI
+name: RDP_HOSSEN
 
 on: [push, workflow_dispatch]
 
